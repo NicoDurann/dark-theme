@@ -27,6 +27,9 @@ table,
 textarea {
   width: 100%;
 }
+textarea {
+  resize: none;
+}
 html {
   font-size: 62.5%;
 }
