@@ -103,7 +103,7 @@ hr {
 }
 a {
   text-decoration: none;
-  color: #1d7484;
+  color: #982c61;
 }
 a:hover {
   color: #982c61;
@@ -216,11 +216,11 @@ textarea {
 input:focus,
 select:focus,
 textarea:focus {
-  border: 1px solid #1d7484;
+  border: 1px solid #982c61;
   outline: 0;
 }
 input[type="checkbox"]:focus {
-  outline: #1d7484 dotted 1px;
+  outline: #982c61 dotted 1px;
 }
 fieldset,
 label,
@@ -230,7 +230,7 @@ legend {
   font-weight: 600;
 }
 ::-webkit-scrollbar {
-  width: 10px;
+  width: auto;
 }
 ::-webkit-scrollbar-track {
   background: #1a1a1a;
